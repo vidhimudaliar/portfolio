@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="50" cy="50" r="48" fill="none" stroke="#d4a46f" stroke-width="2"/>
+    <circle cx="50" cy="50" r="45" fill="none" stroke="#d4a46f" stroke-width="1" stroke-dasharray="4 4"/>
+    <path d="M50 5 L53 45 L50 50 L47 45 Z" fill="#1a4b77"/>
+    <path d="M50 95 L47 55 L50 50 L53 55 Z" fill="#d4a46f"/>
+    <path d="M5 50 L45 47 L50 50 L45 53 Z" fill="#d4a46f"/>
+    <path d="M95 50 L55 53 L50 50 L55 47 Z" fill="#d4a46f"/>
+    <text x="50" y="25" text-anchor="middle" fill="#1a4b77" font-family="Arial" font-size="12">N</text>
+    <text x="50" y="85" text-anchor="middle" fill="#d4a46f" font-family="Arial" font-size="12">S</text>
+    <text x="15" y="52" text-anchor="middle" fill="#d4a46f" font-family="Arial" font-size="12">W</text>
+    <text x="85" y="52" text-anchor="middle" fill="#d4a46f" font-family="Arial" font-size="12">E</text>
+</svg> 
